@@ -1,0 +1,5 @@
+com\example\microservicio_usuarios_mascotas\model\usuario.class
+com\example\microservicio_usuarios_mascotas\repositorio\usuarioRepositorio.class
+com\example\microservicio_usuarios_mascotas\controller\usuariocontroller.class
+com\example\microservicio_usuarios_mascotas\MicroservicioUsuariosMascotasApplication.class
+com\example\microservicio_usuarios_mascotas\service\usuarioservice.class
